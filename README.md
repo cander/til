@@ -21,3 +21,4 @@ Inspired by
 
 ## Miscellaneous
 * [Platform Engineering](misc/platform-engineering.md)
+* [VS Code](misc/vs-code-cheat-sheet.md)
