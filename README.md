@@ -4,6 +4,7 @@ My Today I Learned snippets.
 
 Some of these started life as gists that I wrote as little personal cheat
 sheets. This repo seems like a more useful medium to record and share them.
+Others are actually bookmarks - pages/sites I might want to remember later.
 
 Inspired by
 [simonw/til](https://github.com/simonw/til) and
@@ -20,5 +21,6 @@ Inspired by
 * [Time Machine vs. Virtual Machine Images](mac/time_machine_vs_vm_images.md)
 
 ## Miscellaneous
+* [Complxity and Size](misc/complexity-and-size.md)
 * [Platform Engineering](misc/platform-engineering.md)
 * [VS Code](misc/vs-code-cheat-sheet.md)
