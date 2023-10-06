@@ -5,6 +5,8 @@ His caveats apply here too.
 
 ---
 
+- Do you want to be right or happy? Mostly important when "arguing" with a
+  significant other.
 - Rules about performance tuning:
   - Your first idea is almost surely wrong
   - You need real data, probably from a profiler
