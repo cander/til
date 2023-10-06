@@ -21,6 +21,7 @@ Inspired by
 * [Time Machine vs. Virtual Machine Images](mac/time_machine_vs_vm_images.md)
 
 ## Miscellaneous
-* [Complxity and Size](misc/complexity-and-size.md)
+* [Complexity and Size](misc/complexity-and-size.md)
 * [Platform Engineering](misc/platform-engineering.md)
 * [VS Code](misc/vs-code-cheat-sheet.md)
+* [Wisdom](misc/wisdom.md)
