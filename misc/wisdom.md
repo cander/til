@@ -1,12 +1,17 @@
 This is my (so small) version of 
 [Merlin Mann's](http://hotdogsladies.omg.lol/)
 [Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md).
-His caveats apply here too.
+It's an attempt to capture various bits of wisdom I've encountered or
+learned the hard way. I'm writing them down for Future Me.
+His caveats apply here, too - i.e., your milage may vary..
 
 ---
 
+## General Wisdom
 - Do you want to be right or happy? Mostly important when "arguing" with a
   significant other.
+
+## Technology Wisdom
 - Rules about performance tuning:
   - Your first idea is almost surely wrong
   - You need real data, probably from a profiler
@@ -16,3 +21,7 @@ His caveats apply here too.
 ## Quotes
 - Knowlege comes, but wisdom lingers - Alfred Tennyson 
 (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+
+- Resentment is like drinking poison and waiting for the other person to
+  die. - Saint Augustine.
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
