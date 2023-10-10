@@ -10,6 +10,9 @@ His caveats apply here, too - i.e., your milage may vary..
 ## General Wisdom
 - Do you want to be right or happy? Mostly important when "arguing" with a
   significant other.
+- Every job has BS. You can change jobs and escape the BS at your previous
+  job, but the new job will have BS too, although you might not smell it
+  initially. Enjoy.
 
 ## Technology Wisdom
 - Rules about performance tuning:
@@ -21,7 +24,6 @@ His caveats apply here, too - i.e., your milage may vary..
 ## Quotes
 - Knowlege comes, but wisdom lingers - Alfred Tennyson 
 (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
-
 - Resentment is like drinking poison and waiting for the other person to
   die. - Saint Augustine.
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
