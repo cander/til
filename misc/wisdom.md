@@ -30,3 +30,4 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "I’m not writing it down to remember it later, I’m writing it down to remember it now." -
   [Field Notes](https://fieldnotesbrand.com)
+- "It's rad not to die." - Bill Stevenson of the Descendents
