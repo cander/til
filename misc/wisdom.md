@@ -31,6 +31,9 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
     to be done."
   - [Horstman's Corollay](https://en.wikipedia.org/wiki/Parkinson%27s_law#Corollaries) -
     "Work contracts to fit in the time we give it."
+- On the farm, the last one through the gate locks it.
+- Related: You should check that gate before you walk away from it,
+  regardless of who should have locked it.
 
 ## Technology Wisdom
 - Rules about performance tuning:
