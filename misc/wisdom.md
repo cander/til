@@ -49,8 +49,13 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "Knowlege comes, but wisdom lingers." - Alfred Tennyson
 (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "Resentment is like drinking poison and waiting for the other person to
-  die." - Saint Augustine.
+  die." - Saint Augustine
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "I’m not writing it down to remember it later, I’m writing it down to remember it now." -
   [Field Notes](https://fieldnotesbrand.com)
 - "It's rad not to die." - Bill Stevenson of the Descendents
+- "Premature optimization is the root of all evil" -
+  [Donald Knuth](https://wiki.c2.com/?PrematureOptimization=)
+- "In the country of the blind, the one-eyed man is king." Desiderius Erasmus
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso) 
+  and [Mark Horstman](https://en.wikipedia.org/wiki/Manager_Tools_Podcast))
