@@ -58,6 +58,8 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "It's rad not to die." - Bill Stevenson of the Descendents
 - "Premature optimization is the root of all evil" -
   [Donald Knuth](https://wiki.c2.com/?PrematureOptimization=)
-- "In the country of the blind, the one-eyed man is king." Desiderius Erasmus
+- "In the country of the blind, the one-eyed man is king." - Desiderius Erasmus
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso) 
   and [Mark Horstman](https://en.wikipedia.org/wiki/Manager_Tools_Podcast))
+- "Fat, drunk, and stupid is no way to go through life, son." - Dean Wormer,
+  [Animal House](https://en.wikipedia.org/wiki/Animal_House).
