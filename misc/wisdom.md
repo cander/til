@@ -63,3 +63,6 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   and [Mark Horstman](https://en.wikipedia.org/wiki/Manager_Tools_Podcast))
 - "Fat, drunk, and stupid is no way to go through life, son." - Dean Wormer,
   [Animal House](https://en.wikipedia.org/wiki/Animal_House).
+- "Be ready to revise any system, scrap any method, abandon any theory, if
+  the success of the job requires it." - Henry Ford
+  (via [Cal Newport](https://www.newyorker.com/culture/office-space/solving-the-productivity-paradox))
