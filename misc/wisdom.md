@@ -55,8 +55,10 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "I’m not writing it down to remember it later, I’m writing it down to remember it now." -
   [Field Notes](https://fieldnotesbrand.com)
-- "It's rad not to die." - Bill Stevenson of the Descendents
-- "Premature optimization is the root of all evil" -
+- "It's rad not to die." -
+  [Bill Stevenson](https://en.wikipedia.org/wiki/Bill_Stevenson_(musician)) of the
+  [Descendents](https://en.wikipedia.org/wiki/Descendents)
+- "Premature optimization is the root of all evil." -
   [Donald Knuth](https://wiki.c2.com/?PrematureOptimization=)
 - "In the country of the blind, the one-eyed man is king." - Desiderius Erasmus
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso) 
@@ -66,3 +68,4 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "Be ready to revise any system, scrap any method, abandon any theory, if
   the success of the job requires it." - Henry Ford
   (via [Cal Newport](https://www.newyorker.com/culture/office-space/solving-the-productivity-paradox))
+- "The universe is change. Life is opinion." - Marcus Aurelius
