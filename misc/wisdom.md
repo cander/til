@@ -69,3 +69,6 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   the success of the job requires it." - Henry Ford
   (via [Cal Newport](https://www.newyorker.com/culture/office-space/solving-the-productivity-paradox))
 - "The universe is change. Life is opinion." - Marcus Aurelius
+- "To resent change is to wrongly assume that you have a choice in the
+  matter." - Ryan Holiday,
+  [The Daily Stoic](https://ryanholiday.net/ryan-holiday-books/)
