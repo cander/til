@@ -72,3 +72,4 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "To resent change is to wrongly assume that you have a choice in the
   matter." - Ryan Holiday,
   [The Daily Stoic](https://ryanholiday.net/ryan-holiday-books/)
+- "Success is whole-assing whatever you do." - Arnold Schwarzenegger
