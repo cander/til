@@ -36,6 +36,11 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - On the farm, the last one through the gate locks it.
 - Related: You should check that gate before you walk away from it,
   regardless of who should have locked it.
+- How not to motivate your employees
+  (from [The Economist](https://www.economist.com/business/2023/11/20/how-not-to-motivate-your-employees)):
+  - Anyone who calls themselves a thought leader is to be avoided.
+  - A man who does not wear socks cannot be trusted.
+  - A company that holds an employee-appreciation day does not appreciate its employees.
 
 ## Technology Wisdom
 - Rules about performance tuning:
@@ -61,7 +66,7 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "Premature optimization is the root of all evil." -
   [Donald Knuth](https://wiki.c2.com/?PrematureOptimization=)
 - "In the country of the blind, the one-eyed man is king." - Desiderius Erasmus
-  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso) 
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso)
   and [Mark Horstman](https://en.wikipedia.org/wiki/Manager_Tools_Podcast))
 - "Fat, drunk, and stupid is no way to go through life, son." - Dean Wormer,
   [Animal House](https://en.wikipedia.org/wiki/Animal_House).
@@ -73,3 +78,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   matter." - Ryan Holiday,
   [The Daily Stoic](https://ryanholiday.net/ryan-holiday-books/)
 - "Success is whole-assing whatever you do." - Arnold Schwarzenegger
+- "Knowlege speaks, but wisdom listens." - Jimmy Hendrix
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
