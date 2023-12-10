@@ -41,6 +41,7 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   - Anyone who calls themselves a thought leader is to be avoided.
   - A man who does not wear socks cannot be trusted.
   - A company that holds an employee-appreciation day does not appreciate its employees.
+- Always stop to pet the kitty, even if she's playing hard to get.
 
 ## Technology Wisdom
 - Rules about performance tuning:
