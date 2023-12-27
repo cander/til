@@ -81,3 +81,4 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "Success is whole-assing whatever you do." - Arnold Schwarzenegger
 - "Knowlege speaks, but wisdom listens." - Jimmy Hendrix
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "The only difference between screwing around and science is writing it down." - Adam Savage
