@@ -45,13 +45,14 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 
 ## Technology Wisdom
 - Rules about performance tuning:
-  - Your first idea is almost surely wrong
-  - You need real data, probably from a profiler
-  - There's a good chance your second idea based on data is still wrong
-  - Only change one thing at a time and be sure you know what you changed
+  - Your first idea is almost surely wrong.
+  - You need real data, probably from a profiler.
+  - There's a good chance your second idea based on data is still wrong.
+  - Only change one thing at a time and be sure you know what you changed.
   - Remember [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl's_law) -
     just because you make something wicked-fast, doesn't mean you'll make
     the overall system wicked-fast. See above about data.
+- If you think there's only one root cause, you're not done looking.
 
 ## Quotes
 - "Knowlege comes, but wisdom lingers." - Alfred Tennyson
