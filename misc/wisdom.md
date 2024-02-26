@@ -87,3 +87,4 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   And if it has high morale, it’ll do good work." - Robert Solow (via 
   [The Economist](https://www.economist.com/finance-and-economics/2024/01/04/robert-solow-was-an-intellectual-giant))
 - "There is nothing either good or bad, but thinking makes it so." - William Shakespeare, Hamlet, Act II, Scene 2.
+- "Communication is what the listener does." - Mark Horstman
