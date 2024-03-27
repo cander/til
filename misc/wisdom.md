@@ -91,3 +91,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "For progressive people the present is the beginning of the future. For
   conservative people the present is the end of the past." - Karl Mannheim
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "A thought is not necessarily a fact or even a statement about your character. Thoughts don't 
+  necessarily mean anything. Often, they're the mental equivalent of butt dials." - [Erik Barker](https://bakadesuyo.com/2024/03/negative-thoughts/)
