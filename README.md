@@ -25,3 +25,6 @@ Inspired by
 * [Platform Engineering](misc/platform-engineering.md)
 * [VS Code](misc/vs-code-cheat-sheet.md)
 * [Wisdom](misc/wisdom.md)
+
+## Ruby
+* [Updating Ruby versions with rbenv installed by Homebrew](ruby/homebrew-rbenv-update.md)
