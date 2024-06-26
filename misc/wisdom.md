@@ -94,3 +94,6 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "A thought is not necessarily a fact or even a statement about your character. Thoughts don't 
   necessarily mean anything. Often, they're the mental equivalent of butt dials." - [Erik Barker](https://bakadesuyo.com/2024/03/negative-thoughts/)
 - "Never hurts to have a second set of prints on a gun." - Nelson Muntz
+- "No sooner does man discover intelligence than he tries to involve it in
+  his own stupidity." - Jacques Cousteau
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
