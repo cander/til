@@ -97,3 +97,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "No sooner does man discover intelligence than he tries to involve it in
   his own stupidity." - Jacques Cousteau
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "Care about what other people think, and you will always be their
+  prisoner." - Lao Tzu
