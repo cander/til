@@ -99,3 +99,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "Care about what other people think, and you will always be their
   prisoner." - Lao Tzu
+- "My name is Elmer J. Fudd, millionaire.  I own a mansion and a yacht." -
+  [Hare Brush](https://en.wikipedia.org/wiki/Hare_Brush)
