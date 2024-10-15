@@ -103,3 +103,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   prisoner." - Lao Tzu
 - "My name is Elmer J. Fudd, millionaire.  I own a mansion and a yacht." -
   [Hare Brush](https://en.wikipedia.org/wiki/Hare_Brush)
+- "If you have a dumb incentive system, you get dumb outcomes." - Charlie Munger (via 
+  [The Economist](https://www.economist.com/business/2024/10/10/when-workplace-bonuses-backfire))
