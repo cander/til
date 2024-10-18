@@ -33,6 +33,8 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
     to be done."
   - [Horstman's Corollay](https://en.wikipedia.org/wiki/Parkinson%27s_law#Corollaries) -
     "Work contracts to fit in the time we give it."
+  - [Goodhart’s Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) -
+    "When a measure becomes a target, it ceases to be a good measure."
   - The Hopkins Principle - anything judged against a low enough standard
     can be made to look good.
 - On the farm, the last one through the gate locks it.
