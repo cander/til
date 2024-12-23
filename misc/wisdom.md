@@ -109,3 +109,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   [The Economist](https://www.economist.com/business/2024/10/10/when-workplace-bonuses-backfire))
 - "Experience is simply the name we give our mistakes." - Oscar Wilde
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "Dying is easy. Math is hard." - Ronnie Chieng
+  [Love to Hate it](https://www.imdb.com/title/tt34344071/?ref_=fn_all_ttl_1)
