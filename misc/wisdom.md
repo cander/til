@@ -111,3 +111,6 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "Dying is easy. Math is hard." - Ronnie Chieng
   [Love to Hate it](https://www.imdb.com/title/tt34344071/?ref_=fn_all_ttl_1)
+- "Never argue with stupid people, they will drag you down to their level and then beat you
+  with experience."- 
+  [Unknown and debatable](https://quoteinvestigator.com/2023/01/29/never-argue/).
