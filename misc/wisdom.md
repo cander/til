@@ -37,6 +37,11 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
     "When a measure becomes a target, it ceases to be a good measure."
   - The Hopkins Principle - anything judged against a low enough standard
     can be made to look good.
+  - [Dunning-Kruger
+    Effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) - "is a
+    cognitive bias in which people with limited competence in a particular
+    domain overestimate their abilities." Not a law, but I can never
+    remember the name of it.
 - On the farm, the last one through the gate locks it.
 - Related: You should check that gate before you walk away from it,
   regardless of who should have locked it.
@@ -88,14 +93,14 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "The only difference between screwing around and science is writing it down." - Adam Savage
 - "If you’re in a group that is doing good work, it’ll have a high morale.
-  And if it has high morale, it’ll do good work." - Robert Solow (via 
+  And if it has high morale, it’ll do good work." - Robert Solow (via
   [The Economist](https://www.economist.com/finance-and-economics/2024/01/04/robert-solow-was-an-intellectual-giant))
 - "There is nothing either good or bad, but thinking makes it so." - William Shakespeare, Hamlet, Act II, Scene 2.
 - "Communication is what the listener does." - Mark Horstman
 - "For progressive people the present is the beginning of the future. For
   conservative people the present is the end of the past." - Karl Mannheim
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
-- "A thought is not necessarily a fact or even a statement about your character. Thoughts don't 
+- "A thought is not necessarily a fact or even a statement about your character. Thoughts don't
   necessarily mean anything. Often, they're the mental equivalent of butt dials." - [Erik Barker](https://bakadesuyo.com/2024/03/negative-thoughts/)
 - "Never hurts to have a second set of prints on a gun." - Nelson Muntz
 - "No sooner does man discover intelligence than he tries to involve it in
@@ -105,12 +110,14 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   prisoner." - Lao Tzu
 - "My name is Elmer J. Fudd, millionaire.  I own a mansion and a yacht." -
   [Hare Brush](https://en.wikipedia.org/wiki/Hare_Brush)
-- "If you have a dumb incentive system, you get dumb outcomes." - Charlie Munger (via 
+- "If you have a dumb incentive system, you get dumb outcomes." - Charlie Munger (via
   [The Economist](https://www.economist.com/business/2024/10/10/when-workplace-bonuses-backfire))
 - "Experience is simply the name we give our mistakes." - Oscar Wilde
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "Dying is easy. Math is hard." - Ronnie Chieng
   [Love to Hate it](https://www.imdb.com/title/tt34344071/?ref_=fn_all_ttl_1)
 - "Never argue with stupid people, they will drag you down to their level and then beat you
-  with experience."- 
+  with experience."-
   [Unknown and debatable](https://quoteinvestigator.com/2023/01/29/never-argue/).
+- "The life of a repo man is always intense." -
+  [Repo Man](https://www.imdb.com/title/tt0087995/), of course.
