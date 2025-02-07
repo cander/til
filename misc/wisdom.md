@@ -35,6 +35,10 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
     "Work contracts to fit in the time we give it."
   - [Goodhart’s Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) -
     "When a measure becomes a target, it ceases to be a good measure."
+  - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox) - occurs
+    when technological advancements make a resource more efficient to use,
+    the price drops, and overall demand increases causing total resource
+    consumption to rise.
   - The Hopkins Principle - anything judged against a low enough standard
     can be made to look good.
   - [Dunning-Kruger
@@ -51,6 +55,7 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   - A man who does not wear socks cannot be trusted.
   - A company that holds an employee-appreciation day does not appreciate its employees.
 - Always stop to pet the kitty, even if she's playing hard to get.
+- A thermostat is not a valve.
 
 ## Technology Wisdom
 - Rules about performance tuning:
