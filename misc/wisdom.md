@@ -126,3 +126,6 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   [Unknown and debatable](https://quoteinvestigator.com/2023/01/29/never-argue/).
 - "The life of a repo man is always intense." -
   [Repo Man](https://www.imdb.com/title/tt0087995/), of course.
+- "We have the power to hold no opinion about a thing and to not let it
+  upset our state of mind—for things have no natural power to shape our
+  judgments." [Marcus Aurelius via Daily Stoic](https://dailystoic.com/meditations).
