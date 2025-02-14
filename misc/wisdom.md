@@ -129,3 +129,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "We have the power to hold no opinion about a thing and to not let it
   upset our state of mind—for things have no natural power to shape our
   judgments." [Marcus Aurelius via Daily Stoic](https://dailystoic.com/meditations).
+- "Object/Relational Mapping is the Vietnam of Computer Science" -
+  [Ted Neward](https://blogs.newardassociates.com/blog/2006/the-vietnam-of-computer-science.html).
