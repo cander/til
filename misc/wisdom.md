@@ -131,3 +131,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   judgments." [Marcus Aurelius via Daily Stoic](https://dailystoic.com/meditations).
 - "Object/Relational Mapping is the Vietnam of Computer Science" -
   [Ted Neward](https://blogs.newardassociates.com/blog/2006/the-vietnam-of-computer-science.html).
+- "Experience is the teacher of all things" - Julius Ceasar
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
