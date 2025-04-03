@@ -133,3 +133,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   [Ted Neward](https://blogs.newardassociates.com/blog/2006/the-vietnam-of-computer-science.html).
 - "Experience is the teacher of all things" - Julius Ceasar
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "If you haven’t mastered the obvious, don’t waste a minute on the
+  obscure." - Adam Bornstein.
