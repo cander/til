@@ -46,6 +46,9 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
     cognitive bias in which people with limited competence in a particular
     domain overestimate their abilities." Not a law, but I can never
     remember the name of it.
+  - [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law) -
+    "The amount of energy needed to refute bullshit is an order of magnitude
+    bigger than that needed to produce it."
 - On the farm, the last one through the gate locks it.
 - Related: You should check that gate before you walk away from it,
   regardless of who should have locked it.
