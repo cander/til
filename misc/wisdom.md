@@ -25,7 +25,7 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   - [Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law) -
     "as an online discussion grows longer (regardless of topic or scope),
     the probability of a comparison to Nazis or Adolf Hitler approaches 1."
-  - [Hanlon's razoe](https://en.wikipedia.org/wiki/Hanlon's_razor) -
+  - [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon's_razor) -
     "Never attribute to malice that which is adequately explained by stupidity."
   - [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law) -
     "the duration of public administration, bureaucracy and officialdom
