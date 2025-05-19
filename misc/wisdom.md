@@ -138,3 +138,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "If you haven’t mastered the obvious, don’t waste a minute on the
   obscure." - Adam Bornstein.
+- "Reps are the only antidote to being bad at something." - Arnold
+  Schwarzenegger.
