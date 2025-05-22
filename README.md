@@ -21,8 +21,11 @@ Inspired by
 * [Time Machine vs. Virtual Machine Images](mac/time_machine_vs_vm_images.md)
 
 ## Miscellaneous
+* [Bourne Basic](misc/bourne-basic.sh)
 * [Complexity and Size](misc/complexity-and-size.md)
+* [Git](misc/git-cheat-sheet.md)
 * [Platform Engineering](misc/platform-engineering.md)
+* [Vim](misc/vim-cheat-sheet.md)
 * [VS Code](misc/vs-code-cheat-sheet.md)
 * [Wisdom](misc/wisdom.md)
 
