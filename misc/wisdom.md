@@ -140,3 +140,4 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   obscure." - Adam Bornstein.
 - "Reps are the only antidote to being bad at something." - Arnold
   Schwarzenegger.
+- "You can have results or excuses. Not both." - Arnold Schwarzenegger.
