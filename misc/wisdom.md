@@ -140,4 +140,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   obscure." - Adam Bornstein.
 - "Reps are the only antidote to being bad at something." - Arnold
   Schwarzenegger.
+- "Life starts at the end of your comfort zone." - José Andrés
 - "You can have results or excuses. Not both." - Arnold Schwarzenegger.
