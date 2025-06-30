@@ -15,7 +15,7 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   initially. Enjoy.
 - Read all the words. (via my friend Tom)
 - Laws (that I can never remember the names of):
-  - [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law) - "adding
+  - [Brooks's Law](https://en.wikipedia.org/wiki/Brooks%27s_law) - "adding
     more individuals to a software project that is behind schedule delays it
     even longer."
   - [Conway's Law](https://en.wikipedia.org/wiki/Conway's_law) -
@@ -141,4 +141,6 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "Reps are the only antidote to being bad at something." - Arnold
   Schwarzenegger.
 - "Life starts at the end of your comfort zone." - José Andrés
-- "You can have results or excuses. Not both." - Arnold Schwarzenegger.
+- "You can have results or excuses. Not both." - Arnold Schwarzenegger
+- "Failure seldom stops you. What stops you is the fear of failure." - Jack Lemmon
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
