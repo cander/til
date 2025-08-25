@@ -144,3 +144,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "You can have results or excuses. Not both." - Arnold Schwarzenegger
 - "Failure seldom stops you. What stops you is the fear of failure." - Jack Lemmon
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- “I’ll never be ashamed to quote a bad writer with a good saying.” - Ryan Holiday,
+  [The Daily Stoic](https://ryanholiday.net/ryan-holiday-books/)
