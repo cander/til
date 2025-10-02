@@ -30,3 +30,6 @@ dyld[66616]: Library not loaded: /Users/charles/.rbenv/versions/3.3.1/lib/librub
   Reason: tried: '/Users/charles/.rbenv/versions/3.3.1/lib/libruby.3.3.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Users/charles/.rbenv/versions/3.3.1/lib/libruby.3.3.dylib' (no such file), '/Users/charles/.rbenv/versions/3.3.1/lib/libruby.3.3.dylib' (no such file)
 ```
 Solution courtesy of: https://github.com/rbenv/ruby-build/issues/1715
+
+When upgrading to Ruby 3.3.9, I had the same error and fixed it by removing
+the `.rbenv/shims` directory from my `PATH`.
