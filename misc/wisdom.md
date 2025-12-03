@@ -146,3 +146,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - “I’ll never be ashamed to quote a bad writer with a good saying.” - Ryan Holiday,
   [The Daily Stoic](https://ryanholiday.net/ryan-holiday-books/)
+- "Without an informed society, science is going to be considered an enemy." - Stanford Robert Ovshinsky
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
