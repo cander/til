@@ -141,8 +141,9 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "Reps are the only antidote to being bad at something." - Arnold
   Schwarzenegger.
 - "Life starts at the end of your comfort zone." - José Andrés
-- "You can have results or excuses. Not both." - Arnold Schwarzenegger
+- "Growth starts where comfort ends." - Arnold Schwarzenegger
 - "Failure seldom stops you. What stops you is the fear of failure." - Jack Lemmon
+- "You can have results or excuses. Not both." - Arnold Schwarzenegger
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - “I’ll never be ashamed to quote a bad writer with a good saying.” - Ryan Holiday,
   [The Daily Stoic](https://ryanholiday.net/ryan-holiday-books/)
