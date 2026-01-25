@@ -151,3 +151,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "Curiosity is the lust of the mind." - Thomas Hobbes
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "A fanatic is one who can't change is mind and won't change the subject." - Winston Chuchill
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
