@@ -153,3 +153,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "A fanatic is one who can't change is mind and won't change the subject." - Winston Chuchill
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "Time is a great teacher, but unfortunately it kills all its pupils." - Hector Berlioz
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
