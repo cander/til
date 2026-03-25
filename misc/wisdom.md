@@ -155,3 +155,6 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "Time is a great teacher, but unfortunately it kills all its pupils." - Hector Berlioz
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "Have nothing in your house that you do not know to be useful, or believe
+  to be beautiful." - William Morris
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
