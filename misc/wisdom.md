@@ -158,3 +158,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
 - "Have nothing in your house that you do not know to be useful, or believe
   to be beautiful." - William Morris
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "Violence is the last refuge of the incompetent." - Issac Asimov
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
