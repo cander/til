@@ -160,3 +160,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
 - "Violence is the last refuge of the incompetent." - Issac Asimov
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- "The noblest pleasure is the joy of understanding." - Leanardo Da Vinci
+  (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
