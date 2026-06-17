@@ -164,3 +164,5 @@ Merlin's caveats apply here, too - i.e., your milage may vary..
   The Plymouth Express
 - "The noblest pleasure is the joy of understanding." - Leanardo Da Vinci
   (via [Espresso](https://myaccount.economist.com/s/article/what-is-the-economist-espresso))
+- “I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced
+  one kick 10,000 times.” - Bruce Lee
